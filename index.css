@@ -1,15 +1,15 @@
 body {
-	font-size: 150%;
+	background: url("https://www.thenewboston.com/images/dark_hardwood.jpg") repeat;
 }
 
-.one {
-	font-size: 1em;
+.menuBar {
+	color: white;
+	text-align: center;
 }
 
-.two {
-	font-size: 1.5em;
-}
-
-.three {
-	font-size: 2.0em;
+.button {
+	background: #777777;
+	width: 24%;
+	margin: 0.5%;
+	float: left;
 }
